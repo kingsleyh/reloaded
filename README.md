@@ -1,3 +1,5 @@
+# PLEASE NOTE - This project is not being actively maintained at the moment - I am taking a break - not sure when I will return.
+
 # reloaded
 Dub reload script to recompile project if any of the d or dt files change
 
