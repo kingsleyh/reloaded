@@ -4,5 +4,7 @@
 	"copyright": "Copyright © 2015, kings",
 	"authors": ["kings"],
 	"dependencies": {
+		"io": "~>0.0.3",
+		"sdlang-d": "~>0.9.3"
 	}
 }
